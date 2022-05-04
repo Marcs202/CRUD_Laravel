@@ -20,3 +20,5 @@
 
 * [Enlace a Documento PDF con explicación del sistema] - 
 
+* [Infografía] - https://drive.google.com/file/d/1marf2msCsfD1YHH6zovUTp68ClMHNtgi/view?usp=sharing
+
